@@ -1,30 +1,30 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Reading Psychoanalysis on Love"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Psychoanalysis has been an interesting topic in many different fields, including philosophy and film theories. The notion of love is always an important concept in psychoanalysis, and love, especially “romantic love,” is vital in our life. In our society today emphasizing “safety-first love” or “some comfort zones limited by regulated pleasures,” we believe there is an urgent need to rethink love. Therefore, in the Reading Psychoanalysis on Love series of events, we are going to explore the essential ideas of Sigmund Freud, Jacques Lacan (by Slavoj Žižek and Bruce Fink) and Alain Badiou on the topic of Love.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+精神分析一直是横跨许多不同领域的一个有趣的主题，这些领域包括哲学和电影理论。而爱则是精神分析中 一个重要的概念。与此同时，爱，特别是爱情，在人们的生活中始终是不可或缺的。然而在当今强调着某种 “安全第一的爱” 或者是要有 “某种限制快感的舒适区” 的社会，我们相信人们迫切地需要重新思考爱。因此在 阅读关于爱情的精神分析系列活动中，我们将探讨西格蒙德·弗洛伊德、雅克·拉康(斯拉沃热·齐泽克和布 鲁斯·芬克)和阿兰·巴迪欧关于爱情的重要思想。
 
-A data-driven personal website
+
+What is Psychoanalysis?
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+The primary definition of psychoanalysis is given by Sigmund Freud (Freud et al., 2016): psychoanalysis is a method of treating nervous patients medically. In the further development by French psychoanalyst Jacques Lacan, he innovated philosophical ideas into clinical psychoanalysis. For philosopher Slavoj Žižek, psychoanalysis is more than clinical treatments: it is also a way to read texts and decipher ideology in critical theories (Žižek et al., 2007).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+What is psychoanalysis in critical theories? Critical Theory: The Key Concepts gives the following definition (Felluga, 2015):
 
-Getting started
+Psychoanalytical Criticism aims to show that a literary or cultural work is always structured by complex and often contradictory human desires. Whereas New Historicism and Marx-inspired Cultural Materialism analyze public power structures in terms of the culture as a whole, psycho- analysis analyzes microstructures of power within the individual and within small-scale domestic environments. That is, it analyzes the interiority of the self as well as the self’s kinship systems. By analyzing the formation of the individual, psychoanalysis also helps us to understand the formation of ideology at large—and can therefore be extended to the analysis of various cultural and societal phenomena. Indeed, for this reason, psychoanalysis has been especially influential over the last three decades in cultural studies, film studies, and Marxist criticism.
+
+Why Love?
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Love is a central theme in many people’s life, insofar as I know from past experience as a lover or a beloved. The notion of lover and beloved can be found in Plato’s famous text Symposium (Plato et al., 2003). The reading and the re-reading of this text always shed light on love in today’s society. The interactions of this idea from Plato with the psychoanalytic theories create space for us to rethink and even re-invent love, to put it in Alain Badiou’s term (Badiou et al., 2012).
 
+There is another reason to introduce love from a psychoanalytic persepctive. In the clinical setting (possibly even in political theory) of Lacanian psychoanalysis, love is an indispensible concept in (Lacanian) psycho- analysis. Lacan once claimed (Lacan et al., 1999), “the only thing that we do in the analytic discourse is speak about love.” Thus we hope we will have an opportunity to glimpse this important notion of love and the elaboration of love from a psychoanalytic perspective, so that we can be motivated to at least think about love again.
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
