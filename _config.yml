@@ -212,6 +212,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _about-Chinese
+  - scope:
+      path: ""
+      type: about-Chinese
+    values:
+      layout: single
+      author_profile: true
   # _schedule
   - scope:
       path: ""
