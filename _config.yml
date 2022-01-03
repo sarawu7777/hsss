@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Siqi Zheng (Tim) &  Sara Wu"
 title_separator          : "-"
-name                     : &name "Siqi Zheng"
+name                     : &name "Host: Siqi Zheng"
 description              : &description "presented by Humanities and Social Sciences Sanctuary club"
 url                      : https://sarawu7777.github.io/hsss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -178,7 +178,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  schedule:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -215,7 +215,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: schedule
     values:
       layout: single
       author_profile: true
