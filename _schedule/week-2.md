@@ -1,14 +1,13 @@
 ---
-title: "Week 2"
+title: "Section 2"
 collection: schedule
 permalink: /schedule/week-2
-date: 2014-01-01
+date: 2022-01-23
 location: "Toronto, CA"
 ---
 
 
-Topic: Eros II
-======
+Eros II
 
 Freud on the topic of love (Beyond the Pleasure Principle?)
 
