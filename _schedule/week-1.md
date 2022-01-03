@@ -11,7 +11,6 @@ Eros I
 
 Reading: Three Essays on the Theory of Sexuality
 
-[More information here](http://example2.com)
-
+[Download paper here](https://sarawu7777.github.io/hsss.github.io/files/readings/W1_James Strachey_Psychological Works of Sigmund Freud.pdf)
 
 More detail will be posted here after the section. 
