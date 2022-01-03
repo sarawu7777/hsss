@@ -1,37 +1,31 @@
 ---
-permalink: /中文简介/
-title: "about-Chinese"
+permalink: /about-Chinese/
+title: "活动介绍"
 author_profile: true
 redirect_from: 
   - /abC/
   - /about-Chinese.html
 ---
 
-Psychoanalysis has been an interesting topic in many different fields, including philosophy and film theories. The notion of love is always an important concept in psychoanalysis, and love, especially “romantic love,” is vital in our life. In our society today emphasizing “safety-first love” or “some comfort zones limited by regulated pleasures,” we believe there is an urgent need to rethink love. Therefore, in the Reading Psychoanalysis on Love series of events, we are going to explore the essential ideas of Sigmund Freud, Jacques Lacan (by Slavoj Žižek and Bruce Fink) and Alain Badiou on the topic of Love.
-
-<br>
 精神分析一直是横跨许多不同领域的一个有趣的主题，这些领域包括哲学和电影理论。而爱则是精神分析中 一个重要的概念。与此同时，爱，特别是爱情，在人们的生活中始终是不可或缺的。然而在当今强调着某种 “安全第一的爱” 或者是要有 “某种限制快感的舒适区” 的社会，我们相信人们迫切地需要重新思考爱。因此在 阅读关于爱情的精神分析系列活动中，我们将探讨西格蒙德·弗洛伊德、雅克·拉康(斯拉沃热·齐泽克和布 鲁斯·芬克)和阿兰·巴迪欧关于爱情的重要思想。
 
 
-What is Psychoanalysis?
+什么是精神分析?
 ======
-The primary definition of psychoanalysis is given by Sigmund Freud (Freud et al., 2016): psychoanalysis is a method of treating nervous patients medically. In the further development by French psychoanalyst Jacques Lacan, he innovated philosophical ideas into clinical psychoanalysis. For philosopher Slavoj Žižek, psychoanalysis is more than clinical treatments: it is also a way to read texts and decipher ideology in critical theories (Žižek et al., 2007).
 
-What is psychoanalysis in critical theories? Critical Theory: The Key Concepts gives the following definition (Felluga, 2015):
+精神分析的主要定义是由西格蒙德·弗洛伊德 (Freud et al., 2016) 给出的:精神分析是一种在医学上治疗神 经症患者的方法。在法国精神分析学家雅克·拉康的进一步发展中，他将哲学思想融入了临床精神分析。对于 哲学家斯拉沃热·齐泽克而言，精神分析不仅仅是临床治疗:它还是一种阅读文本和解读意识形态批判理论的 方式 (Žižek et al., 2007)。
+批判理论中的精神分析是什么?批判理论:关键概念给出了以下定义 (Felluga, 2015):
 
-> *Psychoanalytical Criticism aims to show that a literary or cultural work is always structured by complex and often contradictory human desires. Whereas New Historicism and Marx-inspired Cultural Materialism analyze public power structures in terms of the culture as a whole, psycho- analysis analyzes microstructures of power within the individual and within small-scale domestic environments. That is, it analyzes the interiority of the self as well as the self’s kinship systems. By analyzing the formation of the individual, psychoanalysis also helps us to understand the formation of ideology at large—and can therefore be extended to the analysis of various cultural and societal phenomena. Indeed, for this reason, psychoanalysis has been especially influential over the last three decades in cultural studies, film studies, and Marxist criticism.*
+> *精神分析批评旨在表明文学或文化作品总是由复杂且往往相互矛盾的人类欲望构成。新历史主义和 受马克思启发的文化唯物主义从整体文化的角度分析公共权力结构，而精神分析则分析个人和小规 模家庭环境中权力的微观结构。也就是说，它分析了自我的内在性以及自我的亲属关系系统。通过 分析个体的形成，精神分析还帮助我们理解意识形态的整体形成——因此可以扩展到对各种文化和 社会现象的分析。事实上，出于这个原因，精神分析在过去三十年中在文化研究、电影研究和马克 思主义批评中特别有影响力。*
 
-Why Love?
+为什么是爱这个主题?
 ======
-Love is a central theme in many people’s life, insofar as I know from past experience as a lover or a beloved. The notion of lover and beloved can be found in Plato’s famous text Symposium (Plato et al., 2003). The reading and the re-reading of this text always shed light on love in today’s society. The interactions of this idea from Plato with the psychoanalytic theories create space for us to rethink and even re-invent love, to put it in Alain Badiou’s term (Badiou et al., 2012).
+爱是许多人生活中的中心主题，就我从过去作为爱人或被爱的经验而言。爱人和被爱的概念可以在柏拉图著 名的文本会饮篇 (Plato et al., 2003) 中找到。这段文字的阅读和重读，总能启发我们对于当今社会的爱情的思 考。用阿兰巴迪欧的话说 (Badiou et al., 2012)，柏拉图的这一想法与精神分析理论的相互交融为我们重新思 考甚至重新发明爱创造了空间。
 
-There is another reason to introduce love from a psychoanalytic persepctive. In the clinical setting (possibly even in political theory) of Lacanian psychoanalysis, love is an indispensible concept in (Lacanian) psycho- analysis. Lacan once claimed (Lacan et al., 1999), “the only thing that we do in the analytic discourse is speak about love.” Thus we hope we will have an opportunity to glimpse this important notion of love and the elaboration of love from a psychoanalytic perspective, so that we can be motivated to at least think about love again.
+之所以我们要从精神分析的角度讨论爱，是因为在拉康精神分析的临床语境中(甚至可能在政治理论中)，爱 是(拉康)精神分析中不可或缺的概念。拉康曾声称 (Lacan et al., 1999)，“我们在分析性话语中所做的唯一 一件事就是谈论爱。” 因此，我们希望有机会从精神分析的角度一瞥爱的重要概念和对爱的阐述，这样我们至 少可以从一个全新的角度重新思考爱。
 
 
-How this series is organized
+关于本次活动安排
 ------
-This series is co-hosted by Siqi Zheng (Tim) and Sara Wu, presented by Humanities and Social Sciences Sanctuary club.
-This is a fully online synchronous event. Content will be released before the week starts. You are expected to complete the readings and encouraged to complete suggested readings before our required synchronous meetings (except for the first week).
-
-Time-zones: All times are in local Toronto time.
-
+本次活动由 Siqi Zheng (Tim) 和 Sara Wu 共同主持，携手人文社科避难所社群共同呈现。 这是一个完全线上的活动。阅读内容将在活动开始前发布。您应该在我们的实时讨论会之前完成阅读必读材
+料。同时我们鼓励您完成推荐阅读。(第一周除外)。 时区:所有时间均为多伦多当地时间。
