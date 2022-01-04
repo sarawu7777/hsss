@@ -11,7 +11,7 @@ redirect_from:
 Psychoanalysis has been an interesting topic in many different fields, including philosophy and film theories. The notion of love is always an important concept in psychoanalysis, and love, especially “romantic love,” is vital in our life. In our society today emphasizing “safety-first love” or “some comfort zones limited by regulated pleasures,” we believe there is an urgent need to rethink love. Therefore, in the Reading Psychoanalysis on Love series of events, we are going to explore the essential ideas of Sigmund Freud, Jacques Lacan (by Slavoj Žižek and Bruce Fink) and Alain Badiou on the topic of Love.
 
 <figure>
-  <img src="/images/poster.jpg" alt="this is a poster">
+  <img src="hsss.github.io/images/poster.jpg" alt="">
   <figcaption>Event Poster</figcaption>
 </figure>
 
