@@ -11,9 +11,9 @@ title                    : "Siqi Zheng (Tim) &  Sara Wu"
 title_separator          : "-"
 name                     : &name "Host-Siqi Zheng"
 description              : &description "presented by Humanities and Social Sciences Sanctuary club"
-url                      : https://sarawu7777.github.io/hsss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sarawu7777.github.io/hsss # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://sarawu7777.github.io/hsss.github.io"
+repository               : "https://sarawu7777.github.io/hsss"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
