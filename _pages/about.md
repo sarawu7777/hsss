@@ -24,6 +24,7 @@ What is psychoanalysis in critical theories? Critical Theory: The Key Concepts g
 > *Psychoanalytical Criticism aims to show that a literary or cultural work is always structured by complex and often contradictory human desires. Whereas New Historicism and Marx-inspired Cultural Materialism analyze public power structures in terms of the culture as a whole, psycho- analysis analyzes microstructures of power within the individual and within small-scale domestic environments. That is, it analyzes the interiority of the self as well as the self’s kinship systems. By analyzing the formation of the individual, psychoanalysis also helps us to understand the formation of ideology at large—and can therefore be extended to the analysis of various cultural and societal phenomena. Indeed, for this reason, psychoanalysis has been especially influential over the last three decades in cultural studies, film studies, and Marxist criticism.*
 
 <br>
+
 Why Love?
 ======
 Love is a central theme in many people’s life, insofar as I know from past experience as a lover or a beloved. The notion of lover and beloved can be found in Plato’s famous text Symposium (Plato et al., 2003). The reading and the re-reading of this text always shed light on love in today’s society. The interactions of this idea from Plato with the psychoanalytic theories create space for us to rethink and even re-invent love, to put it in Alain Badiou’s term (Badiou et al., 2012).
