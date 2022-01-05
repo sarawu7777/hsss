@@ -1,6 +1,6 @@
 ---
 permalink: /organization/
-title: "organization"
+title: "Organization"
 author_profile: true
 redirect_from: 
   - /og/
