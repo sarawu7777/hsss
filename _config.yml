@@ -219,7 +219,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-    # _organization
+  # _organization
     - scope:
       path: ""
       type: organization
