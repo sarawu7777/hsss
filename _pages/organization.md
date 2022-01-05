@@ -7,6 +7,14 @@ redirect_from:
   - /organization.html
 ---
 
+How this series is organized
+------
+
+This series is co-hosted by Siqi Zheng (Tim) and Sara Wu, presented by Humanities and Social Sciences Sanctuary club.
+This is a fully online synchronous event. Content will be released before the week starts. You are expected to complete the readings and encouraged to complete suggested readings before our required synchronous meetings (except for the first week).
+Time-zones: All times are in local Toronto time.
+
+
 关于本次活动安排
 ------
 本次活动由 Siqi Zheng (Tim) 和 Sara Wu 共同主持，携手人文社科避难所社群共同呈现。 
@@ -24,22 +32,46 @@ redirect_from:
 
 
 
-什么是精神分析?
+Objectives (公共版本)
 ======
 
-精神分析的主要定义是由西格蒙德·弗洛伊德 (Freud et al., 2016) 给出的:精神分析是一种在医学上治疗神 经症患者的方法。在法国精神分析学家雅克·拉康的进一步发展中，他将哲学思想融入了临床精神分析。对于 哲学家斯拉沃热·齐泽克而言，精神分析不仅仅是临床治疗:它还是一种阅读文本和解读意识形态批判理论的 方式 (Žižek et al., 2007)。
-批判理论中的精神分析是什么?批判理论:关键概念给出了以下定义 (Felluga, 2015):
-
-> *精神分析批评旨在表明文学或文化作品总是由复杂且往往相互矛盾的人类欲望构成。新历史主义和 受马克思启发的文化唯物主义从整体文化的角度分析公共权力结构，而精神分析则分析个人和小规 模家庭环境中权力的微观结构。也就是说，它分析了自我的内在性以及自我的亲属关系系统。通过 分析个体的形成，精神分析还帮助我们理解意识形态的整体形成——因此可以扩展到对各种文化和 社会现象的分析。事实上，出于这个原因，精神分析在过去三十年中在文化研究、电影研究和马克 思主义批评中特别有影响力。*
+1. Increase engagement in Humanities and Social Sciences Sanctuary.
+2. Evaluate and critique analyses in case study—both your own and those of others.
+3. Conduct and communicate psychoanalytic concepts in relation to love in the theories of Sigmund Freud
+and Jacques Lacan.
+4. Understand and communicate basic psychoanalytic ideas and findings effectively in a relatively accessible
+manner.
+5. Connect students’ specific questions in their daily life through distilling essential features of the problem
+and share their analyses from a Lacanian psychoanalytic perspective.
+EVENTS OVERVIEW 4
+6. Collaborate in a team to share your what you learnt from readings and provide insights into your own questions.
+7. Reflect effectively on one’s own development.
 
 <br>
 
-为什么是爱这个主题?
+Communication 
 ======
-爱是许多人生活中的中心主题，就我从过去作为爱人或被爱的经验而言。爱人和被爱的概念可以在柏拉图著 名的文本会饮篇 (Plato et al., 2003) 中找到。这段文字的阅读和重读，总能启发我们对于当今社会的爱情的思 考。用阿兰巴迪欧的话说 (Badiou et al., 2012)，柏拉图的这一想法与精神分析理论的相互交融为我们重新思 考甚至重新发明爱创造了空间。
 
-之所以我们要从精神分析的角度讨论爱，是因为在拉康精神分析的临床语境中(甚至可能在政治理论中)，爱 是(拉康)精神分析中不可或缺的概念。拉康曾声称 (Lacan et al., 1999)，“我们在分析性话语中所做的唯一 一件事就是谈论爱。” 因此，我们希望有机会从精神分析的角度一瞥爱的重要概念和对爱的阐述，这样我们至 少可以从一个全新的角度重新思考爱。
+Get in Touch with Organizers
+------
+• Please include [Reading Psychoanalysis on Love] in the friend request.
+• When sending any communication or participating in discussions, remember that there are real people with feelings on the receiving end. Be kind and treat people the way you would like to be treated.
 
+Academic Questions
+Please ask questions during oﬀice hours. Questions may not be entertained outside oﬀice hours sections.
 
+<br>
 
+Privacy
+======
+Online synchronous sessions
+------
 
+Weekly (Bi-weekly during mid-term weeks) online synchronous sessions take place online. Since you are expected to be available, these will not recorded so people can freely participate. If this changes for any reason during the series of events, participants will be informed.
+Participants may not create recordings of weekly synchronous events with the exception of those participants requiring an accommodation for a disability, who should speak to the organizer prior to beginning to record these events.
+
+Case Study and Story Sharing
+-------
+
+Case study materials will be prepared before the start of our final synchronous meeting. You are strongly encouraged to share the analysis of personal stories, films, texts and music related to the topic of our events. The sharing can be anonymous and be in different formats (writing, video, audio).
+Do not download, copy, or share any materials or texts of the case study and other participants without the explicit permission of the organizers and the sharers. Thanks for your cooperation!
