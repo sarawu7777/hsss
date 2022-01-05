@@ -54,16 +54,18 @@ Communication
 
 Get in Touch with Organizers
 ------
-• Please include [Reading Psychoanalysis on Love] in the friend request.
-• When sending any communication or participating in discussions, remember that there are real people with feelings on the receiving end. Be kind and treat people the way you would like to be treated.
+* Please include [Reading Psychoanalysis on Love] in the friend request.
+* When sending any communication or participating in discussions, remember that there are real people with feelings on the receiving end. Be kind and treat people the way you would like to be treated.
 
 Academic Questions
-Please ask questions during oﬀice hours. Questions may not be entertained outside oﬀice hours sections.
+Please ask questions during Q&A session. 
+Questions may not be entertained outside oﬀice hours sections.
 
 <br>
 
 Privacy
 ======
+
 Online synchronous sessions
 ------
 
