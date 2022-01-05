@@ -10,7 +10,7 @@ redirect_from:
 精神分析一直是横跨许多不同领域的一个有趣的主题，这些领域包括哲学和电影理论。而爱则是精神分析中 一个重要的概念。与此同时，爱，特别是爱情，在人们的生活中始终是不可或缺的。然而在当今强调着某种 “安全第一的爱” 或者是要有 “某种限制快感的舒适区” 的社会，我们相信人们迫切地需要重新思考爱。因此在 阅读关于爱情的精神分析系列活动中，我们将探讨西格蒙德·弗洛伊德、雅克·拉康(斯拉沃热·齐泽克和布 鲁斯·芬克)和阿兰·巴迪欧关于爱情的重要思想。
 
 <figure>
-  <img src="/hsss.github.io/images/poster-chinese.jpg" alt="">
+  <img src="/hsss.github.io/images/poster-chinese-with-contact.jpg" alt="">
 </figure>
 
 什么是精神分析?
