@@ -28,7 +28,7 @@ Time-zones: All times are in local Toronto time.
 对活动感兴趣的朋友请扫下面的二维码加入活动群。
 
 <figure>
-  <img src="/hsss.github.io/images/QR_code.jpg" alt="" width="150">
+  <img src="/hsss.github.io/images/QR_code.jpg" alt="" width="80">
 </figure>
 
 
