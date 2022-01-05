@@ -28,7 +28,7 @@ Time-zones: All times are in local Toronto time.
 对活动感兴趣的朋友请扫下面的二维码加入活动群。
 
 <figure>
-  <img src="/hsss.github.io/images/QR_code.jpg" alt="" width="80">
+  <img src="/hsss.github.io/images/QR_code.jpg" alt="" width="40">
 </figure>
 
 
@@ -43,7 +43,6 @@ and Jacques Lacan.
 manner.
 5. Connect students’ specific questions in their daily life through distilling essential features of the problem
 and share their analyses from a Lacanian psychoanalytic perspective.
-EVENTS OVERVIEW 4
 6. Collaborate in a team to share your what you learnt from readings and provide insights into your own questions.
 7. Reflect effectively on one’s own development.
 
