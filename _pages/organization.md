@@ -58,6 +58,7 @@ Get in Touch with Organizers
 * When sending any communication or participating in discussions, remember that there are real people with feelings on the receiving end. Be kind and treat people the way you would like to be treated.
 
 Academic Questions
+------
 Please ask questions during Q&A session. 
 Questions may not be entertained outside oﬀice hours sections.
 
