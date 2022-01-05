@@ -18,7 +18,7 @@ Time-zones: All times are in local Toronto time.
 关于本次活动安排
 ------
 本次活动由 Siqi Zheng (Tim) 和 Sara Wu 共同主持，携手人文社科避难所社群共同呈现。 
-这是一个完全线上的活动，我们总共会有九次线上讨论会，每次讨论持续大约一小时左右。阅读内容将在活动开始前发布。您应该在我们的实时讨论会之前完成阅读必读材料。同时我们鼓励您完成推荐阅读。(第一周除外)。 详细活动时间和阅读内容，请参考
+这是一个完全线上的活动，我们总共会有九次线上讨论会，每次讨论持续大约一小时左右。阅读内容将在活动开始前发布。您应该在我们的实时讨论会之前完成阅读必读材料。同时我们鼓励您完成推荐阅读。(第一周除外)。 详细活动时间和阅读内容，参考
 **[Schedule](https://sarawu7777.github.io/hsss.github.io/schedule/)**
 
 除了定期的讨论，我们也将在学期中安排1-2次线上答疑。如果时间/情况允许，也会安排线下交流会。
@@ -28,7 +28,7 @@ Time-zones: All times are in local Toronto time.
 对活动感兴趣的朋友请扫下面的二维码加入活动群。
 
 <figure>
-  <img src="/hsss.github.io/images/QR_code.jpg" alt="" width="200">
+  <img src="/hsss.github.io/images/QR_code.jpg" alt="" width="150">
 </figure>
 
 
