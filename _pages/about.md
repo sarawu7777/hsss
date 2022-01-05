@@ -12,7 +12,6 @@ Psychoanalysis has been an interesting topic in many different fields, including
 
 <figure>
   <img src="/hsss.github.io/images/poster.jpg" alt="">
-  <figcaption>Event Poster</figcaption>
 </figure>
 
 What is Psychoanalysis?
@@ -31,7 +30,7 @@ Love is a central theme in many people’s life, insofar as I know from past exp
 
 There is another reason to introduce love from a psychoanalytic persepctive. In the clinical setting (possibly even in political theory) of Lacanian psychoanalysis, love is an indispensible concept in (Lacanian) psycho- analysis. Lacan once claimed (Lacan et al., 1999), “the only thing that we do in the analytic discourse is speak about love.” Thus we hope we will have an opportunity to glimpse this important notion of love and the elaboration of love from a psychoanalytic perspective, so that we can be motivated to at least think about love again.
 
-<br>
+
 How this series is organized
 ------
 This series is co-hosted by Siqi Zheng (Tim) and Sara Wu, presented by Humanities and Social Sciences Sanctuary club.

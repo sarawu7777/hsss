@@ -9,7 +9,10 @@ location: "Toronto, CA"
 
 Eros II
 
+### Reading:
 Freud on the topic of love (Beyond the Pleasure Principle?)
 
+### Suggested Reading:
 
-[Eros, 2019](https://nosubject.com/Eros#cite_ref-1)
+How to Read Lacan ([Žižek et al., 2007](https://sarawu7777.github.io/hsss.github.io/files/readings/W4_Slavoj Zizek, Simon Critchley - How to Read Lacan-W. W. Norton & Company (2007).pdf)
+) Chapter 4 (Page 79-90)

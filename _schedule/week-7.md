@@ -9,14 +9,15 @@ location: "Toronto, CA"
 Love I
 
 
-#### Reading:
+### Reading:
 
 In Praise of Love ([Badiou et al.,2012](https://sarawu7777.github.io/hsss.github.io/files/readings/W7_Alain Badiou, Nicolas Truong, Translated by Peter Bush - In Praise of Love-Serpent's Tail (2012).pdf)
 ): Chapter 3 and 4
 
  What Does Lacan Say About... Love? ([Hewitson, 2015](https://www.lacanonline.com/ 2016/06/what-does-lacan-say-about-love/))
 
-#### Suggested Reading:
+
+### Suggested Reading:
  
 [Love](https://nosubject.com/Love)
 
