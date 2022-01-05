@@ -26,13 +26,13 @@ Time-zones: All times are in local Toronto time.
 时区:所有时间均为多伦多当地时间。
 
 对活动感兴趣的朋友请扫下面的二维码加入活动群。
+
 <figure>
-  <img src="/hsss.github.io/images/QR_code.jpg" alt="">
+  <img src="/hsss.github.io/images/QR_code.jpg" alt="" width="200">
 </figure>
 
 
-
-Objectives (公共版本)
+Objectives
 ======
 
 1. Increase engagement in Humanities and Social Sciences Sanctuary.
