@@ -11,7 +11,7 @@ Ego and Id
 Freud on the topic of love
 
 ### Reading:
-Freud on the topic of love (Beyond the Pleasure Principle?)
+Freud on the topic of love
 
 ### Suggested Reading:
 
