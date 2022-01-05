@@ -9,6 +9,9 @@ main:
   - title: "活动简介"
     url: /about-Chinese/
 
+  - title: "organization"
+    url: /organization/
+
   - title: "Schedule"
     url: /schedule/    
     
