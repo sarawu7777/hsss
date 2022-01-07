@@ -11,6 +11,6 @@ General Introduction
 
 ### Reading: 
 
-[Three Essays on the Theory of Sexuality](https://sarawu7777.github.io/hsss.github.io/files/readings/W1_James Strachey_Psychological Works of Sigmund Freud.pdf)
+[Freud and Lacan by Althusser](https://sarawu7777.github.io/hsss.github.io/files/readings/W1_Althusser Louis - Freud and Lacan.pdf)
 
 More detail will be posted here after the section. 
