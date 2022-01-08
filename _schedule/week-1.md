@@ -14,7 +14,13 @@ General Introduction
 [Freud and Lacan by Althusser](https://sarawu7777.github.io/hsss.github.io/files/readings/W1_Althusser Louis - Freud and Lacan.pdf)
 
 
-{% include video id="fnNJwUlLzR0" provider="youtube" %}
+
+header:
+  video:
+    id: fnNJwUlLzR0
+    provider: youtube
+
+# https://youtu.be/fnNJwUlLzR0
 
 More detail will be posted here after the section. 
 
